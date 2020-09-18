@@ -1,0 +1,3 @@
+resize_shape: [224, 224]
+targets: ['class_B', 'class_A']
+model_path: 'mbnv2.h5'
